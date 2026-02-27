@@ -1,6 +1,6 @@
 # Ahmed Choudhary
 
-Finance & Analytics Builder  
+Finance & Analytics Systems Builder  
 Portfolio Systems | Structured Decision Support | Swiss Market Focus  
 
 ---
@@ -16,7 +16,7 @@ My work focuses on:
 - Financial modeling & optimization  
 - Building scalable analytical architectures  
 
-Background in Banking & Finance with a strong interest in strategy, consulting, and quantitative decision frameworks.
+Background in Banking & Finance with a focus on structured decision-making, strategy, and quantitative frameworks.
 
 ---
 
